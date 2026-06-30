@@ -1,26 +1,43 @@
-# MedPlac
+# 🩺 MedPlac
 
-Aplicativo desenvolvido como projeto acadêmico com o objetivo de facilitar o acesso aos serviços de saúde.
+O **MedPlac** é uma plataforma digital desenvolvida como projeto acadêmico com o objetivo de facilitar o acesso aos serviços de saúde por meio de uma interface intuitiva, moderna e acessível.
 
-## Funcionalidades
+---
 
-- Login
+## ✨ Funcionalidades
+
+- Login de usuários
 - Cadastro
 - Agendamento de consultas
 - Busca por médicos
-- Histórico Médico
-- Botão de emergência
-- Inteligência Artificial
-- Interface acessível
+- Histórico médico
+- Assistente com Inteligência Artificial
+- Interface responsiva e intuitiva
 
-## Tecnologias
+---
+
+## 🛠 Tecnologias Utilizadas
 
 - React
 - Lovable
 - Figma
-- Google Sites 
+- Google Sites
 
-## Equipe
+---
+
+## 📱 Aplicação
+
+🔗 https://medplac.lovable.app/
+
+---
+
+## 🎨 Protótipo
+
+🔗 https://www.figma.com/proto/qCFSdcwUktwhj9zg7COrU8/Medplac
+
+---
+
+## 👥 Equipe
 
 - Douglas de Oliveira Silva
 - Eduardo Vilanova dos Santos
@@ -31,6 +48,22 @@ Aplicativo desenvolvido como projeto acadêmico com o objetivo de facilitar o ac
 - João Pedro Ribeiro Andrade
 - Kaio Bastos Prado
 - Lorrayne Rodrigues Pereira
-- Matheus Vinicius Pereira Nunes
-- Pedro Augusto Angelici de Oliveira
+- Matheus Vinícius Pereira Nunes
+- Pedro Augusto Angélica de Oliveira
 - Pedro Henrique Vieira Chaves do Nascimento
+
+---
+
+## 📄 Documentação
+
+O repositório contém:
+
+- Aplicação desenvolvida pela equipe
+- Protótipo navegável
+- Canvas
+- Carta de aceite
+- Documentação complementar
+
+---
+
+**Projeto desenvolvido em 2026 para a disciplina de Projeto Integrado de Desing e Interação do curso Engenharia de Software.**
