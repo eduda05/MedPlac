@@ -9,8 +9,10 @@ O **MedPlac** é uma plataforma digital desenvolvida como projeto acadêmico com
 - Login de usuários
 - Cadastro
 - Agendamento de consultas
+- Botão de emergência
 - Busca por médicos
 - Histórico médico
+- Busca por farmácias e hospitais
 - Assistente com Inteligência Artificial
 - Interface responsiva e intuitiva
 
@@ -22,12 +24,6 @@ O **MedPlac** é uma plataforma digital desenvolvida como projeto acadêmico com
 - Lovable
 - Figma
 - Google Sites
-
----
-
-## 📱 Aplicação
-
-🔗 https://medplac.lovable.app/
 
 ---
 
